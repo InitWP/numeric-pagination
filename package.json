@@ -1,6 +1,7 @@
 {
 	"name": "Numeric Pagination",
-	"version": "1.0.0",
+	"version": "0.0.0.1",
+	"description": "Numeric pagination for pages, archives and search results",
 	"actions": {
 		"findAndReplace": {
 			"searchvalue": "the_posts_navigation();",
