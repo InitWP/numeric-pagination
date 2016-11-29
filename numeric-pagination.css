@@ -1,0 +1,33 @@
+/* Numeric pagination */
+
+.numeric-pagination {
+    text-align: center;
+    margin: 30px 0;
+}
+
+.numeric-pagination ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.numeric-pagination li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+a.page-numbers,
+span.page-numbers {
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+a:hover.page-numbers,
+a:active.page-numbers,
+a:focus.page-numbers,
+.numeric-pagination .current {
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+}
