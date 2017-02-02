@@ -10,10 +10,10 @@
 		"findAndReplace": {
 			"searchvalue": "the_posts_navigation();",
 			"newvalue": "paging_nav();",
-			"files": {
-				"file1": "archive.php",
-				"file2": "search.php"
-			}
+			"files": [
+				"archive.php",
+				"search.php"
+			]
 		}
 	}
 }
