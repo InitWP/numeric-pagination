@@ -1,5 +1,6 @@
 {
 	"name": "Numeric Pagination",
+	"type": "module",
 	"version": "0.1.0",
 	"description": "Numeric pagination for pages, archives and search results",
 	"files": [
