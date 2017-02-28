@@ -11,7 +11,6 @@
 		"findAndReplace": {
 			"searchvalue": "the_posts_navigation();",
 			"newvalue": "echo TEXTDOMAIN_paging_nav();",
-			"prefixWithTextDomain": true,
 			"files": [
 				"archive.php",
 				"search.php"
