@@ -10,7 +10,7 @@
 	"actions": {
 		"findAndReplace": {
 			"searchvalue": "the_posts_navigation();",
-			"newvalue": "echo paging_nav();",
+			"newvalue": "echo TEXTDOMAIN_paging_nav();",
 			"prefixWithTextDomain": true,
 			"files": [
 				"archive.php",
