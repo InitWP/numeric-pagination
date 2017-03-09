@@ -3,7 +3,7 @@
  * Display navigation to next/previous set of posts when applicable.
  * Based on paging nav function from Twenty Fourteen
  */
-function TEXTDOMAIN_paging_nav() {
+function NAMESPACE_paging_nav() {
 	// Don't print empty markup if there's only one page.
 	if ( $GLOBALS['wp_query']->max_num_pages < 2 ) {
 		return;
