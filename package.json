@@ -9,8 +9,8 @@
     ],
 	"actions": {
 		"findAndReplace": {
-			"searchvalue": "the_posts_navigation();",
-			"newvalue": "echo NAMESPACE_paging_nav();",
+			"searchValue": "the_posts_navigation();",
+			"newValue": "echo NAMESPACE_paging_nav();",
 			"files": [
 				"archive.php",
 				"search.php"
